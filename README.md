@@ -18,5 +18,5 @@ In head tag
 In body
 ```
 <!-- Expand the app here -->
-<div id="ownest-app"></div>
+<div id="ownest-calc"></div>
 ```
