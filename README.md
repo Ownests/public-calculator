@@ -1,6 +1,8 @@
 # Ownest Calculator
 Embeddable calculator for your website
 
+**DEMO: https://ownests.github.io/public-calculator/**
+
 ## How to embed this calculator to your website?
 **Put this in the head tag**
 ```
